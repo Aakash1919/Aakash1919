@@ -1,8 +1,43 @@
-Hey there! 😊 <br>
-I'm a full-time freelancer with over 7 years of experience in web development 🌐 My skillset includes a wide range of technologies such as 💻 Custom Php, 🗄️ MySQL, 🌐 HTML, 🎨 CSS, 📚 jQuery, 🔄 Ajax, 🤖 Javascript, 🚀 Codeigniter, 🚀 Laravel, 🎉 Custom Framework, 📝 Custom CMS, 🌎 AWS, 🗄️ MySQLi, 📞 Twilio, 🔗 GitHub, 🔗 Gitlab, 💰 Payment method integration including 💳 PayPal, 💳 Stripe, 💳 Payeezy, 💳 Authorize.net, and 📈 Google AdWords, 📈 Google Ads APIs, 📅 Google Calendar integration, 📈 Google Analytics, 📲 Google Social API, 🗺️ Google Maps, 📲 Facebook API integration, and 🛒 Supermarkets API like Whisk, Amazon, Walmart, Sears, and CMS Development, i.e. 🎨 WordPress Theme Customizations, 📝 WordPress Plugins, 🎨 ReactJs, and 🎨 TypeScript.
+# Aakash Choudhary
+### Founder at Suave Creators · Full Stack Developer
 
-As a freelancer, I work independently and am not associated with any company. My schedule is flexible, and I am available from 10 AM - 08:00 PM (GMT +5:30) to accommodate project requirements. Communication is a top priority for me, and I'm always available over Skype to discuss the project 🗣️
+I help startups, businesses, and agencies turn ideas into reliable web applications. With **8+ years of web development experience**, I combine hands-on engineering with leading the team at **[Suave Creators](https://suavecreators.com)**.
 
-I am dedicated to establishing long-term work relationships with my clients, providing reliable and efficient service. I take pride in keeping my clients updated with constant feedback and the status of the work 💪🏼 I am committed to delivering projects on time and to the satisfaction of my clients 👍🏼
+[Website](https://suavecreators.com) · [LinkedIn](https://www.linkedin.com/in/aakash-choudhary-b821b3191/) · [Upwork](https://www.upwork.com/freelancers/~01d958ee0bb42b5ee6) · [GitHub Organization](https://github.com/Suave-Creators)
 
-My experience, skills, and dedication make me an ideal candidate for your project. So, let's get in touch and take your project to the next level! 🚀 Thank you for considering my profile. 😊
+---
+
+## What I build
+
+- **Custom web applications & SaaS** — business platforms, dashboards, and subscription products.
+- **CRM, ERP & internal tools** — workflows that connect sales, projects, and operations.
+- **API integrations & automation** — payments, communications, calendars, maps, and connected systems.
+- **Websites & e-commerce** — responsive websites, CMS development, and ongoing improvements.
+- **Agency development support** — white-label delivery, extended teams, and long-term maintenance.
+
+## Technology toolkit
+
+| Area | Technologies |
+| --- | --- |
+| Backend | PHP, Laravel, CodeIgniter, Node.js |
+| Frontend | JavaScript, TypeScript, Vue.js, React, HTML, CSS, Tailwind CSS, Bootstrap |
+| Data | MySQL, PostgreSQL, Redis |
+| CMS | WordPress, Craft CMS |
+| Integrations | Stripe, PayPal, Square, Twilio, Google Maps, Google Calendar, Salesforce |
+| Infrastructure & tools | AWS, Google Cloud, Linux, Nginx, Apache, Git, Vite |
+
+## Building at Suave Creators
+
+Alongside client delivery, I am developing a **CRM SaaS for small IT companies and agencies**, bringing project management, employee management, and business communication into one workspace.
+
+My work spans architecture, development, integrations, code reviews, and coordinating delivery with our development and design team.
+
+## How I work
+
+Clear communication, maintainable code, practical solutions, and long-term collaboration. I work with clients directly and partner with agencies that need dependable technical delivery.
+
+## Let's work together
+
+Have a product to build, a system to improve, or a team that needs development support?
+
+**[Explore Suave Creators](https://suavecreators.com)** or **[connect with me on LinkedIn](https://www.linkedin.com/in/aakash-choudhary-b821b3191/)**.
