@@ -1,7 +1,7 @@
 # Aakash Choudhary
 ### Founder at Suave Creators · Full Stack Developer
 
-I help startups, businesses, and agencies turn ideas into reliable web applications. With **8+ years of web development experience**, I combine hands-on engineering with leading the team at **[Suave Creators](https://suavecreators.com)**.
+I help startups, businesses, and agencies turn ideas into reliable web applications. With **10+ years of web development experience**, I combine hands-on engineering with leading the team at **[Suave Creators](https://suavecreators.com)**.
 
 [Website](https://suavecreators.com) · [LinkedIn](https://www.linkedin.com/in/aakash-choudhary-b821b3191/) · [Upwork](https://www.upwork.com/freelancers/~01d958ee0bb42b5ee6) · [GitHub Organization](https://github.com/Suave-Creators)
 
